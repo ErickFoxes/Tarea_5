@@ -6,7 +6,6 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProviders
 import kotlinx.android.synthetic.main.activity_main.*
-/**/
 class MainActivity : AppCompatActivity() {
 
     lateinit var scoreViewModel: ScoreViewModel
